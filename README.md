@@ -34,9 +34,7 @@
 <br />
 <br />
 
-
-  <img align="left" alt="FurqanAnwar GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FurqanAnwar&show_icons=true&hide_border=true" />
-
+[![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurqanAnwar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://github.com/FurqanAnwar
