@@ -34,14 +34,10 @@
 <br />
 <br />
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="FurqanAnwar GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FurqanAnwar&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://github.com/FurqanAnwar
 [twitter]: https://twitter.com/FurqanA70110374
