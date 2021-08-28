@@ -1,4 +1,4 @@
-### Hi there, I'm Furqan - aka [FurqanAnwar]👋
+### Hi there, I'm Furqan - aka [FurqanAnwar][]👋
 
 ## I'm a MERN STACK DEVELOPER!!
 
@@ -37,7 +37,7 @@
 
 
 
-
+[website]: https://github.com/FurqanAnwar
 [twitter]: https://twitter.com/FurqanA70110374
 [codepen]: https://codepen.io/FurqanAnwar
 [linkedin]: https://www.linkedin.com/in/furqan-anwar-032a881b4/
