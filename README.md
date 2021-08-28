@@ -34,7 +34,7 @@
 <br />
 <br />
 
-[![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurqanAnwar)](https://github.com/anuraghazra/github-readme-stats)
+[![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurqanAnwar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://github.com/FurqanAnwar
