@@ -1,4 +1,4 @@
-### Hi there, I'm Furqan - aka [FurqanAnwar][]👋
+### Hi there, I'm Furqan - aka [FurqanAnwar][website]👋
 
 ## I'm a MERN STACK DEVELOPER!!
 
