@@ -4,7 +4,7 @@
 
 - ✨ I’m currently learning TypeScript and GraphQL 
 - 👯 I’m looking forward to build a CLI for my own project
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ I love to play cricket 🏏 and lift up the weights 🏋️‍♂️
 
 ### Connect with me:
