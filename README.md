@@ -1,6 +1,6 @@
 ### Hi there, I'm Furqan 👋
 
-## I'm a FULL STACK DEVELOPER ✨
+## I'm a Software Engineer ✨
 
 - ✨ I’m currently learning TypeScript and GraphQL 
 - 👯 I’m looking forward to build a CLI for my own project
