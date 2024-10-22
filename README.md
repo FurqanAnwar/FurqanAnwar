@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer ✨
 
-- ✨ I’m currently learning TypeScript and GraphQL 
+- ✨ I’m currently working with TypeScript and NestJs
 - 👯 I’m looking forward to build a CLI for my own project
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ I love to play cricket 🏏 and lift up the weights 🏋️‍♂️
